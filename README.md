@@ -5,7 +5,7 @@
 
 Give a linear-time algorithm that takes as input a tree ( undirected tree ) and determines whether it has a perfect matching: a set of edges that touches each node exactly once.
 
-* Input：樹的邊( all edges )
+* Input：樹的邊( all edges numbered in order )
 * Output：是否有perfect matching ( Yes or NO )
 
 Example 1
