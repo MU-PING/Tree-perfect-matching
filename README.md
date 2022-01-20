@@ -5,7 +5,7 @@
 
 Give a linear-time algorithm that takes as input a tree ( undirected tree ) and determines whether it has a perfect matching: a set of edges that touches each node exactly once.
 
-* Input：the first two are maximal node label【Labels are contiguous】and the number of edge. The rest are all edges
+* Input：the first two are maximal node label【contiguous】and the number of edge. The rest are all edges
 * Output：Is there a perfect matching, Yes or NO
 
 Example 1
