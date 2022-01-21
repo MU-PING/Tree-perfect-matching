@@ -32,6 +32,8 @@ Output: Exist perfect matching
 <img src="https://user-images.githubusercontent.com/93152909/139903766-9f38755b-7b43-4ed2-9e37-14d554dc651a.png" width="200"><img src="https://user-images.githubusercontent.com/93152909/150304470-ac02fdea-5497-46d7-b537-0dabd78a3ae1.png" width="200">
 
 ### 範例圖
+* 0 means it was not matched
+
 ![image](https://user-images.githubusercontent.com/93152909/150297968-1337bb72-5106-4968-bd04-8036a6c39500.png)
 ### 時間複雜度
 O(V+E)：using adjacency list and DFS
